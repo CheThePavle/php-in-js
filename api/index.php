@@ -1,6 +1,5 @@
 <?php
 echo '<h1>ЭТО PHP В VERCEL!!!</h1>'
-    echo '<script>console.log('testlog')</script>'
 ?>
 <!DOCTYPE html>
 <html lang="en">
