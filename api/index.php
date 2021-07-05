@@ -1,7 +1,7 @@
 <?php
 
 //header('content-type: application/json');
-echo '<h1>ЭТО PHP В VERCEL!!!</h1> </br>'
+echo '<h1>ЭТО PHP В VERCEL!!!</h1>'
 
 <!DOCTYPE html>
 <html lang="en">
