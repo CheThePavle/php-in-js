@@ -1,9 +1,7 @@
 <?php
 
 //header('content-type: application/json');
-echo '<h1>ЭТО PHP В VERCEL!!!</h1>
-https://github.com/juicyfx/vercel-examples';
-?>
+echo '<h1>ЭТО PHP В VERCEL!!!</h1> </br>'
 
 <!DOCTYPE html>
 <html lang="en">
