@@ -1,7 +1,8 @@
 <?php
 
 //header('content-type: application/json');
-echo '<h1>DAS</h1>';
+echo '<h1>ЭТО PHP В VERCEL!!!</h1>';
+echo 'https://github.com/juicyfx/vercel-examples';
 ?>
 
 <!DOCTYPE html>
