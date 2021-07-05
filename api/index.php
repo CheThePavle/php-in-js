@@ -1,4 +1,3 @@
-<?php echo 'Это PHP в JS))))))))' ?>
 <!DOCTYPE html>
 <html lang="en">
 
