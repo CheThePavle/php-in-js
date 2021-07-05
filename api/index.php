@@ -1,5 +1,5 @@
 <?php
-echo '<h1>ЭТО PHP В VERCEL!!!</h1>'
+echo '<h1>ЭТО PHP В VERCEL!!!</h1>';
 ?>
 <!DOCTYPE html>
 <html lang="en">
