@@ -1,4 +1,4 @@
-<?php
+<?phpf
 echo '<h1>ЭТО PHP В VERCEL!!!</h1>'
 ?>
 <!DOCTYPE html>
